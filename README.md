@@ -1,2 +1,2 @@
 # hmlinux.github.io
-MySQL master-slave replication on kubernetes
+欢迎访问HMLinux
